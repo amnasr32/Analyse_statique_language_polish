@@ -7,9 +7,9 @@
 ______________________________________________________
 Nom , Prénom , numéro d'étudiant :
 ______________________________________________________
-NASR   Amira     21965931
+NASR   Amira     
 ______________________________________________________
-KACEM  Najd      71613477
+KACEM  Najd      
 ______________________________________________________
 
 
@@ -60,15 +60,6 @@ ______________________________________________________
      ne détermine malheureusement pas la ligne d'une potentielle erreur.
 
 
-
-   *****************************************     Organisation de travail **************************************
-  les tâches ont été réparties entre les membres du groupe de la façon suivante :
-
- Premier rendu : Najd :  read & print & eval
-                 Amira : read & print
-
- Deuxièmme rendu : Najd : sign & vars
-                   Amira: simpl
 
    ***************************************** Remarques /Conclusion    **************************************
 

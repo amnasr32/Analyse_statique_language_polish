@@ -1,4 +1,4 @@
-Projet PF5 2021 : Polish
+Projet PF5 2021 : Polish (voir projet.pdf pour plus de détails)
 ========================
 
 
